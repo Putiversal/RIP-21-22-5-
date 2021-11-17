@@ -1,0 +1,27 @@
+from models.book_shop import BookShop
+
+shops_with_books = [
+    BookShop(1, 3),
+    BookShop(1, 2),
+    BookShop(1, 1),
+    BookShop(2, 3),
+    BookShop(3, 1),
+    BookShop(3, 5),
+    BookShop(4, 3),
+    BookShop(5, 2),
+    BookShop(6, 2),
+    BookShop(7, 1),
+    BookShop(8, 1),
+    BookShop(9, 1),
+    BookShop(9, 2),
+    BookShop(9, 3),
+    BookShop(9, 4),
+    BookShop(10, 4),
+    BookShop(11, 4),
+    BookShop(11, 5),
+    BookShop(12, 1),
+    BookShop(12, 2),
+    BookShop(12, 3),
+    BookShop(12, 4),
+    BookShop(12, 5),
+]
